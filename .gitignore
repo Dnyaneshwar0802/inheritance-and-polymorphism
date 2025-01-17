@@ -8,3 +8,7 @@
 /.idea
 *.iml
 /.idea
+/.idea
+*.xml
+.idea/modules.xml
+.idea/inheritance and polymorphism.iml
