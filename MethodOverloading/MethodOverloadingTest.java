@@ -9,5 +9,8 @@ public class MethodOverloadingTest {
 
         System.out.println("Product of two numbers: " + productOfTwo);
         System.out.println("Product of three numbers: " + productOfThree);
+        OverloadingExample1 olexam1=new OverloadingExample1();
+        olexam1.test();
+        olexam1.test(5);
     }
 }
