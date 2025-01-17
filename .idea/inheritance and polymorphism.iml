@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Multilevel" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Simpleinheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hierarchical" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MethodOverloading" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
